@@ -1,0 +1,24 @@
+{
+  "name": "helperjs",
+  "version": "1.0.0",
+  "description": "This npm package is designed to help write javascript with some helper functions. Like loadash, but not lodash.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodedJourney/helperjs.git"
+  },
+  "keywords": [
+    "utility",
+    "function",
+    "javascript"
+  ],
+  "author": "Tom Legg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodedJourney/helperjs/issues"
+  },
+  "homepage": "https://github.com/TheCodedJourney/helperjs#readme"
+}
