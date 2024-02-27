@@ -1,6 +1,6 @@
 {
   "name": "@thecodedjourney/helperjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This npm package is designed to help write javascript with some helper functions. Like loadash, but not lodash.",
   "main": "index.js",
   "scripts": {
